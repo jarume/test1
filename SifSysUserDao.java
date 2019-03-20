@@ -8,7 +8,9 @@ import org.springframework.data.domain.Sort;
 
 import cn.sunline.domain.endauth.SifSysUser;
 import cn.sunline.domain.endauth.SifSysUserPk;
-
+/**
+*ssaasdasds
+*/
 public interface SifSysUserDao {
 
 	public Page<SifSysUser> findAll(Pageable pageable);
