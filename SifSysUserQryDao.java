@@ -8,7 +8,7 @@ import org.springframework.data.domain.Sort;
 
 import cn.sunline.domain.endauth.SifSysUserQry;
 import cn.sunline.domain.endauth.SifSysUserQryPk;
-2222
+22222
 public interface SifSysUserQryDao {
 
 	public Page<SifSysUserQry> findAll(Pageable pageable);
@@ -16,7 +16,7 @@ public interface SifSysUserQryDao {
 	public <S extends SifSysUserQry> S save(S entity);
 
 	public SifSysUserQry findOne(SifSysUserQryPk id);
-
+mmmmmmmm
 	public boolean exists(SifSysUserQryPk id);
 
 	public long count();
