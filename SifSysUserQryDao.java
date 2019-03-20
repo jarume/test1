@@ -8,7 +8,7 @@ import org.springframework.data.domain.Sort;
 
 import cn.sunline.domain.endauth.SifSysUserQry;
 import cn.sunline.domain.endauth.SifSysUserQryPk;
-2222233311
+2222233
 public interface SifSysUserQryDao {
 
 	public Page<SifSysUserQry> findAll(Pageable pageable);
