@@ -71,3 +71,7 @@ public interface SifSysUserDao {
 	Page<SifSysUser> queryByTemplate(final SifSysUser tmp,Pageable pageable);
 
 }
+/**
+*测试
+*
+*/
