@@ -16,7 +16,7 @@ public interface SifSysUserQryDao {
 	public <S extends SifSysUserQry> S save(S entity);
 
 	public SifSysUserQry findOne(SifSysUserQryPk id);
-
+mmmmmmmm
 	public boolean exists(SifSysUserQryPk id);
 
 	public long count();
