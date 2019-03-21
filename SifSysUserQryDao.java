@@ -19,7 +19,7 @@ public interface SifSysUserQryDao {
 
 	public boolean exists(SifSysUserQryPk id);
 
-	public long count();
+	public long count();111
 
 	public void delete(SifSysUserQryPk id);
 
