@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Sort;
-111grfsfsdfsfas
+111grfsfsdfhfgfjhgj
 import cn.sunline.domain.endauth.SifSysUserQry;
 import cn.sunline.domain.endauth.SifSysUserQryPk;
 public interface SifSysUserQryDao {
